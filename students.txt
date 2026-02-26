@@ -1,0 +1,5 @@
+101,Monkey D. Luffy,Pirate King,89
+102,Roronoa Zoro,Swordsman,92
+103,Nami,Navigator,75
+104,Usopp,Sniper,85
+105,Sanji,Cook,90
